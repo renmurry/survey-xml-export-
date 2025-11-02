@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<survey>
+  <entry id="A1">
+    <observer name="Ren M" />
+    <location lat="25.675432" lon="94.108765" alt="1421" />
+    <event type="landslide" date="2025-10-28" />
+    <context material="colluvium" structureAffected="road" notes="Minor slope failure near km 12" />
+  </entry>
+  <entry id="A2">
+    <observer name="Team-2" />
+    <location lat="25.700100" lon="94.130000" alt="1189" />
+    <event type="debris_flow" date="2025-10-29" />
+    <context material="debris" structureAffected="bridge" notes="Channelized flow, check culvert" />
+  </entry>
+</survey>
