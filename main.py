@@ -28,7 +28,7 @@ class MainWin(QtWidgets.QMainWindow):
     """
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("XML Survey Extractor – Preview & Export")
+        self.setWindowTitle("XML Survey Extractor")
         self.resize(1100, 700)
 
         self.rows = []       # raw rows (with 'photos' list)
